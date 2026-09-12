@@ -8,7 +8,7 @@
   "info": {
     "name": "4DSkin",
     "author": "DreamGuXiang, MrPokeG",
-    "description": "Adds support for skins with custom geometries.",
+    "description": "Adds support for skins with custom geometries and capes.",
     "homepage_url": "https://github.com/QYCottage/4DSkin-Release",
     "icon": "assets/icon.png",
     "tags": [
