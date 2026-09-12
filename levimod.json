@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "4dskin",
+  "version": "2.0.0",
+  "minecraft_versions": [
+    "1.26.45.1"
+  ],
+  "info": {
+    "name": "4DSkin",
+    "author": "DreamGuXiang, MrPokeG",
+    "description": "Adds support for skins with custom geometries.",
+    "homepage_url": "https://github.com/QYCottage/4DSkin-Release",
+    "icon": "assets/icon.png",
+    "tags": [
+      "Cosmetic",
+      "Skins"
+    ]
+  },
+  "release_assets": {
+    "include": [
+      "*.levipack",
+      "*.so"
+    ],
+    "labels": {
+      "4DSkin.levipack": "LeviPack"
+    }
+  }
+}
